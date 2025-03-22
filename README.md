@@ -30,3 +30,6 @@ Além disso, estou familiarizado com o desenvolvimento de aplicativos móveis, u
 Minha formação em **Técnico em Logística** complementa minha habilidade em processos e organização, o que me permite pensar em soluções que não só atendem às necessidades técnicas, mas também ao fluxo de trabalho e à escalabilidade de sistemas.
 
 Sempre em busca de **novos desafios**, busco estar em constante aprendizado para me manter atualizado com as últimas tendências da tecnologia.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosynky&show_icons=true&hide_title=true&theme=dark&text_color=00FF00&icon_color=00FF00&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&rank_icon=github&show_icons=true)
+
