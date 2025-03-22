@@ -1,6 +1,6 @@
-# Sobre mim
+# Marco Antônio
 
-Sou **Marco Antônio**, um **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com uma sólida formação e experiência em diversas tecnologias, sou capaz de construir **aplicações web e móveis completas**, desde o front-end até o back-end.
+**Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com uma sólida formação e experiência em diversas tecnologias, sou capaz de construir **aplicações web e móveis completas**, desde o front-end até o back-end.
 
 Tenho experiência com **HTML**, **CSS** e **JavaScript**, criando interfaces ricas e interativas. No back-end, trabalho com **PHP**, **Java**, e também com bancos de dados como **SQL**, **MySQL** e **PostgreSQL**, garantindo o armazenamento eficiente de dados e a integração robusta das aplicações.
 
