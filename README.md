@@ -1,6 +1,6 @@
 # Marco Antônio
 
-![Minha Foto](https://imgur.com/a/nyYThMm)
+![Minha Foto](https://imgur.com/vn6rVAF)
 
 
 **Desenvolvedor Full Stack** apaixonado por criar soluções inovadoras e eficientes. Com uma sólida formação e experiência em diversas tecnologias, sou capaz de construir **aplicações web e móveis completas**, desde o front-end até o back-end.
